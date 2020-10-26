@@ -1,7 +1,7 @@
 # kottans-frontend
 # General
 -  [x] Git Basics
--  [ ] Linux CLI and Networking
+-  [x] Linux CLI and Networking
 -  [ ] VCS (hello gitty), GitHub and Collaboration
 
 ## Git Basics 
@@ -23,3 +23,32 @@
 - In future I will be able to use branches flexibly.
 ![screenshot of the course"learninggitbranching"](git_basics/learninggitbranching.JPG)
 ![screenshot of the course"learninggitbranching2"](git_basics/learninggitbranching2.JPG)
+
+## Linux CLI, and HTTP
+<details>
+  <summary>
+  Screenshots"Linux Survival"
+  </summary>
+
+![screenshot of the course"linux_survival"](/task_linux_cli/Linux_Survival_Quiz1.JPG)
+![screenshot of the course"linux_survival"](/task_linux_cli/Linux_Survival_Quiz2.JPG)
+![screenshot of the course"linux_survival"](/task_linux_cli/Linux_Survival_Quiz3.JPG)
+![screenshot of the course"linux_survival"](/task_linux_cli/Linux_Survival_Quiz4.JPG)
+![screenshot of the course"linux_survival"](/task_linux_cli/Linux_Survival.JPG)
+
+</details>
+WOW, I finished one more course and I learned some information about Linux and Linux commands. 
+It was my first experience with Linux, but it was not difficult.
+In this course everything was new and interesting for me because I use Windows:) But maybe in future I will install Linux and will use it. And I will use my Linux skills.  
+
+
+After completing course "Linux Survival" I learned and understood:
+- How create a directory (mkdir)
+- how change directory  (cd)
+- how opy file (cp)
+- how remove file (rm)
+- how find file (find) 
+
+
+ 
+
