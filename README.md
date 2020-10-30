@@ -45,7 +45,7 @@ In this course everything was new and interesting for me because I use Windows:)
 After completing course "Linux Survival" I learned and understood:
 - How create a directory (mkdir)
 - how change directory  (cd)
-- how opy file (cp)
+- how copy file (cp)
 - how remove file (rm)
 - how find file (find) 
 
