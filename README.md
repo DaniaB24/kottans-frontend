@@ -2,7 +2,7 @@
 # General
 -  [x] Git Basics
 -  [x] Linux CLI and Networking
--  [ ] VCS (hello gitty), GitHub and Collaboration
+-  [x] VCS (hello gitty), GitHub and Collaboration
 
 ## Git Basics 
 
@@ -49,6 +49,33 @@ After completing course "Linux Survival" I learned and understood:
 - how remove file (rm)
 - how find file (find) 
 
+## Git Collaboration
+<details>
+  <summary>
+  Screenshots"Git Collaboration"
+  </summary>
 
+![screenshot of the course"GitHub_and_Collaboration"](/task_git_collaboration/GitHub_and_Collaboration.JPG)
+![screenshot of the course"learninggitbranching"](git_basics/learninggitbranching.JPG)
+![screenshot of the course"learninggitbranching2"](git_basics/learninggitbranching2.JPG)
+
+</details>
+
+So, I finished one more course and I learned more information about Git,GitHub and about Git branching.
+
+__What was new to me__:
+
+- How works with GitHub;
+- how create a pull requests;
+- how working with remote repo with: __git fetch__, __git push__ and __git pull__;
+- how squash commits __git rebase -i__;
+- how working on Another Developer's Repository;
+- how forking repo;
+- and etc;
  
+__What surprised me__: 
+
+- Is what I can filter commits;
+
+
 
