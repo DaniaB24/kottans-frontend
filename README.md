@@ -4,6 +4,12 @@
 -  [x] Linux CLI and Networking
 -  [x] VCS (hello gitty), GitHub and Collaboration
 
+# Front-End Basics
+-  [x] Intro to HTML & CSS 
+-  [ ] Responsive Web Design
+-  [ ] HTML & CSS Practice
+
+
 ## Git Basics 
 
 ## Version Control with Git 
@@ -76,6 +82,77 @@ __What was new to me__:
 __What surprised me__: 
 
 - Is what I can filter commits;
+
+
+## Intro to HTML and CSS
+<details>
+
+  <summary>
+Screenshots"Intro to HTML and CSS"
+  </summary>
+
+![screenshot of the course"Udacity_Intro_to_html"](task_html_css_intro/Udacity_Intro_to_html.JPG)
+![screenshot of the course"Learn_html"](task_html_css_intro/Learn_html.JPG)
+![screenshot of the course"learn_css"](task_html_css_intro/learn_css.JPG)
+
+  </details>
+  
+  So, I finished one more course and I learned more information about Html and Css.After this courses I improved my knowledge about semantic HTML and CSS grid.
+  Some information was new for me:
+
+<details>
+  <summary>
+A lot of html tags:
+  </summary>
+figcaption - defines a caption for a figure element.
+
+figure - specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+
+main - specifies the main content of a document.
+
+mark - defines text that should be marked or highlighted.
+
+section - defines a section in a document.
+
+time - defines a specific time.
+
+video - is used to embed video content in a document, such as a movie clip or other video streams.
+
+audio - is used to embed sound content in a document, such as music or other audio streams.
+
+source - is used to specify multiple media resources for media elements.
+
+datalist - specifies a list of pre-defined options for an input element.
+
+select - is used to create a drop-down list.
+
+optgroup - is used to group related options in a select element (drop-down list).
+
+dl - defines a description list.
+
+dt - defines a term/name in a description list.
+
+dd - is used to describe a term/name in a description list.
+
+And etc.
+
+</details>
+
+
+- __What's new for me from the course about CSS:__
+
+Everything about the grids and transitions and a lot of selectors.
+
+
+- __What's new for me from the course about HTML:__
+  
+Everything about Tables, Forms and some Semantic  HTML and etc.
+
+
+
+
+
+
 
 
 
