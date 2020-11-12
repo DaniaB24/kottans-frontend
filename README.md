@@ -6,7 +6,7 @@
 
 # Front-End Basics
 -  [x] Intro to HTML & CSS 
--  [ ] Responsive Web Design
+-  [x] Responsive Web Design
 -  [ ] HTML & CSS Practice
 
 
@@ -147,6 +147,29 @@ Everything about the grids and transitions and a lot of selectors.
 - __What's new for me from the course about HTML:__
   
 Everything about Tables, Forms and some Semantic  HTML and etc.
+
+
+## Responsive Web Design
+<details>
+
+  <summary>
+  Screenshots"Responsive Web Design"
+  </summary>
+
+  ![screenshot of the course"responisve_web_design"](task_responsive_web_design/responsive_web_d.JPG)
+![screenshot of the course"flex_froggy"](task_responsive_web_design/flex_froggy.JPG)
+
+  </details>
+Wow I finished one more course  and I feel that my skills have improved.
+
+### __Udacity Responsive Web Design:__
+- What targets should be 48px x 48px;
+- how add a media queries, breakpoints;
+- the normal line heigth for body text is 65 characters per line;
+- how to set up a testing suite using a combination of physical devices,simulators and emulators;
+- setting the viewport  __<meta name="viewport" content="width"=device-width,initial-scale="1.0">__
+### __Flex Froggy__
+  I played Flex Froggy before this course, but I finished one more time and refreshed my knowledge about flexbox.
 
 
 
