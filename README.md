@@ -7,8 +7,8 @@
 # Front-End Basics
 -  [x] Intro to HTML & CSS 
 -  [x] Responsive Web Design
--  [ ] HTML & CSS Practice
-
+-  [x] HTML & CSS Practice
+-  [ ] JavaScript Basics
 
 ## Git Basics 
 
@@ -171,8 +171,9 @@ Wow I finished one more course  and I feel that my skills have improved.
 ### __Flex Froggy__
   I played Flex Froggy before this course, but I finished one more time and refreshed my knowledge about flexbox.
 
-
-
+## __HTML & CSS practice__
+Wow! I do this! I used to create dropdown menu using only css and html. It's my first experiense. And when I finished this task, I feels look my skills in Front-End much better. 
+- [Demo](https://DaniaB24.github.io.)
 
 
 
