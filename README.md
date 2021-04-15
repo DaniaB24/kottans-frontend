@@ -8,8 +8,8 @@
 -  [x] Intro to HTML & CSS 
 -  [x] Responsive Web Design
 -  [x] HTML & CSS Practice
--  [ ] JavaScript Basics
-
+-  [x] JavaScript Basics
+-  [ ] Document Object Model - practise
 ## Git Basics 
 
 ## Version Control with Git 
@@ -176,7 +176,21 @@ Wow! I do this! I used to create dropdown menu using only css and html. It's my 
 - [Demo](https://DaniaB24.github.io.)
 
 
+## __JS Basics__
+ ### Hooray!!!
+I finished one more task and it's was difficult for me, but I did it:)
+When I started this part of course, I know about js nothing. But now I have some js skills.
+And it's cool to understand how to work and manipulate with String and Arrays. Freecodecamp give me a lot of good practice.
 
+<details>
+ 
+<summary>
+  Screenshots "JavaScript Basics"
+  </summary>
 
+![screeshot of the course"task_js_basics"](task_js_basics/jsBasic.JPG)
+![screeshot of the course"task_js_basics"](task_js_basics/es6_js_basics.JPG)
+![screeshot of the course"task_js_basics"](task_js_basics/js_freecodecamp.JPG)
+![screeshot of the course"task_js_basics"](task_js_basics/js2_freecodecamp.JPG)
 
-
+</details>
