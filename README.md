@@ -208,6 +208,6 @@ It's my first practice to write js code.
   </summary>
 
 ![screeshot of the course"task_js_dom"](task_js_dom/dom_udacity.JPG)
-![screeshot of the course"task_js_dom"](task_js_dom/es6_js_domfreecode.JPG)
+![screeshot of the course"task_js_dom"](task_js_dom/domfreecode.JPG)
 
   </details>
