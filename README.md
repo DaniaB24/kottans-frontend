@@ -194,3 +194,20 @@ And it's cool to understand how to work and manipulate with String and Arrays. F
 ![screeshot of the course"task_js_basics"](task_js_basics/js2_freecodecamp.JPG)
 
 </details>
+
+## __Document Object Model__
+### Yeahhhhh!!!
+I done one more task and it's was pretty cool for me) 
+It's my first practice to write js code.
+ At this task was a lot of interesting and new information especially how to add, create (and etc) DOM elements. 
+ And it's cool to understand how to work with js in practice.
+ <details>
+ 
+<summary>
+  Screenshots "DOM"
+  </summary>
+
+![screeshot of the course"task_js_dom"](task_js_dom/dom_udacity.JPG)
+![screeshot of the course"task_js_dom"](task_js_dom/es6_js_domfreecode.JPG)
+
+  </details>
