@@ -9,7 +9,15 @@
 -  [x] Responsive Web Design
 -  [x] HTML & CSS Practice
 -  [x] JavaScript Basics
--  [ ] Document Object Model - practise
+-  [x] Document Object Model - practise
+# Advanced Topics
+- [ ] Building a Tiny JS World (pre-OOP) - practice
+- [ ] Object oriented JS - practice
+- [ ] OOP exercise - practice
+- [ ] Offline Web Applications
+- [ ] Memory pair game — real project!
+- [ ] Website Performance Optimization
+- [ ] Friends App - real project!
 ## Git Basics 
 
 ## Version Control with Git 
@@ -201,6 +209,8 @@ I done one more task and it's was pretty cool for me)
 It's my first practice to write js code.
  At this task was a lot of interesting and new information especially how to add, create (and etc) DOM elements. 
  And it's cool to understand how to work with js in practice.
+ - [Demo](https://daniab24.github.io/dom_practice/) |
+ - [Code base](https://github.com/DaniaB24/dom_practice/)
  <details>
  
 <summary>
