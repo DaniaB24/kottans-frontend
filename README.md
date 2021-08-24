@@ -11,7 +11,7 @@
 -  [x] JavaScript Basics
 -  [x] Document Object Model - practise
 # Advanced Topics
-- [ ] Building a Tiny JS World (pre-OOP) - practice
+- [x] Building a Tiny JS World (pre-OOP) - practice
 - [ ] Object oriented JS - practice
 - [ ] OOP exercise - practice
 - [ ] Offline Web Applications
@@ -221,3 +221,6 @@ It's my first practice to write js code.
 ![screeshot of the course"task_js_dom"](task_js_dom/domfreecode.JPG)
 
   </details>
+
+  ## __A Tiny JS World__
+  I've built a tiny JS world.
