@@ -224,3 +224,5 @@ It's my first practice to write js code.
 
   ## __A Tiny JS World__
   I've built a tiny JS world.
+ - [Demo](https://daniab24.github.io/a-tiny-JS-world/) |
+ - [Code base](https://github.com/DaniaB24/a-tiny-js-world/)
