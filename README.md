@@ -12,12 +12,12 @@
 -  [x] Document Object Model - practise
 # Advanced Topics
 - [x] Building a Tiny JS World (pre-OOP) - practice
-- [ ] Object oriented JS - practice
-- [ ] OOP exercise - practice
-- [ ] Offline Web Applications
-- [ ] Memory pair game — real project!
-- [ ] Website Performance Optimization
-- [ ] Friends App - real project!
+- [x] Object oriented JS - practice
+- [x] OOP exercise - practice
+- [x] Offline Web Applications
+- [x] Memory pair game — real project!
+- [x] Website Performance Optimization
+- [x] Friends App - real project!
 ## Git Basics 
 
 ## Version Control with Git 
