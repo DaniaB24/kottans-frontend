@@ -242,7 +242,7 @@ It's my first practice to write js code.
 In this task i'm improved code base of previous task with OOP that i learned at this course.
 
 ## __Offline Web Applications__
-![screeshot of the course"task_offline_web_app"](task_offline_web_app/offline-web-app.PNG)
+![screeshot of the course"task_offline_web_app"](task_offline_web_app/offline-web-app.png)
 
 ## __Memory Pair Game__
 
