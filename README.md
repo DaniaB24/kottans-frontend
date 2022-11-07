@@ -226,3 +226,33 @@ It's my first practice to write js code.
   I've built a tiny JS world.
  - [Demo](https://daniab24.github.io/a-tiny-JS-world/) |
  - [Code base](https://github.com/DaniaB24/a-tiny-js-world/)
+
+  ## __Object Oriented JS__
+
+### Frogger-game
+
+[Demo](https://daniab24.github.io/frogger-game/) |
+[Code base](https://github.com/DaniaB24/frogger-game)
+
+## __OOP Exercise__
+
+[Demo](https://daniab24.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/DaniaB24/a-tiny-JS-world/blob/master/index.js)
+
+In this task i'm improved code base of previous task with OOP that i learned at this course.
+
+## __Offline Web Applications__
+![screeshot of the course"task_offline_web_app"](task_offline_web_app/offline-web-app.JPG)
+
+## __Memory Pair Game__
+
+[Demo](https://daniab24.github.io/memory-pair-game/) |
+[Code base](https://github.com/DaniaB24/memory-pair-game)
+
+## __Website Performance Optimization__
+
+
+## __Friends App__
+
+[Demo](https://daniab24.github.io/friends-application) |
+[Code base](https://github.com/DaniaB24/friends-application)
